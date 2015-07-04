@@ -6,7 +6,6 @@ describe('filter', function() {
 
   beforeEach(module('phonecatFilters'));
 
-
   describe('checkmark', function() {
 
     it('should convert boolean values to unicode checkmark or cross',
